@@ -1,8 +1,8 @@
 # FILE NAME - compliment_01.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Joaquin Darby
+# DATE: 9/29/2025
+# BRIEF DESCRIPTION: Complimenting the user using an if statement
 
 
 
@@ -15,7 +15,14 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
+compliment = input('Would you like a compliment? ')
 
+if compliment == 'yes':
+    print('You have wonderful eyes.')
+
+#else:
+
+print('Thank you for playing.')
 
 
 
@@ -73,6 +80,12 @@ Thank you for playing.
 2. What was the hardest part of this lab?
 
 
+
+
+
+
+
+'''
 
 
 
